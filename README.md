@@ -2,7 +2,7 @@
 
 This website is built using
 
-ReactJs
+ReactJs v18
 
 Strapi
 
