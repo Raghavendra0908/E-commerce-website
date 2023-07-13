@@ -1,2 +1,5 @@
 # E-commerce-website
-Built an E-commerce website by using ReactJs, Strapi, Stripe
+This website is built using
+ReactJs
+Strapi
+Stripe
